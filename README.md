@@ -1,10 +1,10 @@
 ## OLIVIA BERESFORD - CV
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests/Hobbies](#interests/hobbies) |
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests/Hobbies](#interests) |
 
 Having come from an artistic background I have always been interested in ways of combining technology and creativity. After trying multiple job roles within the creative industry I trained and worked as a visual effects artist which opened up much more curiosity for exploring other avenues in the world of technology. It fuelled me to want to create and develop ideas of my own which I was very keen to learn how to do myself. I therefore attended Makers Academy eager to develop such skills to enable me to have the ability to create new and exciting things from scratch as a software developer and take me down a new career path.   
 
-## Skills and Attributes
+## <a name="skills">Skills and Attributes</a>
 
 - Enthusiasm and ability to learn quickly
 - Well organised and adaptable
@@ -13,7 +13,7 @@ Having come from an artistic background I have always been interested in ways of
 - Creative minded
 - Good communication and collaborative skills
 
-## Projects
+## <a name="projects">Projects</a>
 
 - Stay tuned....!
 
@@ -21,7 +21,7 @@ Project | Description | Technologies Used|
 --------|-------------|------------------|
 | [Title](link) | Description | Technology |
 
-## Education
+## <a name="education">Education</a>
 
 #### Makers Academy (August - December 2017)
 
@@ -69,7 +69,7 @@ Certificates in:
 
 (Taken at Frensham Heights School on an art scholarship in 2010)
 
-## Professional Experience
+## <a name="experience">Professional Experience</a>
 
 **Union VFX** (April 2015 - September 2017)\
 *Digital Compositor*\
@@ -105,6 +105,6 @@ Working doing layout and retouching for a single publication of the magazine(Pho
 *Internship*\
 Primarily learning and assisting with retouching (Photoshop), casting and on set production.
 
-## Interests/Hobbies
+## <a name="interests">Interests/Hobbies</a>
 
 Above everything I am a food enthusiast and love exploring the restaurant scene of London and anywhere else I travel to, which I do whenever I can. I also very much enjoy cooking, creating my own artwork, running, skiing and I am addicted to sudokus!
