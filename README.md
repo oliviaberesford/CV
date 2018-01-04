@@ -107,4 +107,4 @@ Primarily learning and assisting with retouching (Photoshop), casting and on set
 
 ## <a name="interests">Interests/Hobbies</a>
 
-Above everything I am a food enthusiast and love exploring the restaurant scene of London and anywhere else I travel to, which I do whenever I can. I also very much enjoy cooking, creating my own artwork, running, skiing and I am addicted to sudokus!
+Above everything I am a food enthusiast and love exploring the restaurant scene of London and anywhere else I travel to, which I do whenever I can. I also very much enjoy cooking, creating my own artwork, running and skiing.
